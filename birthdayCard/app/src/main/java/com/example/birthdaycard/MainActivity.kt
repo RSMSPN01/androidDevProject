@@ -99,7 +99,7 @@ fun GreetingImage (name : String, from: String, modifier: Modifier = Modifier) {
         )
     }
 }
-//
+//fast check
 @Preview(showBackground = true)
 @Composable
 fun BirthdayCardPreview() {
