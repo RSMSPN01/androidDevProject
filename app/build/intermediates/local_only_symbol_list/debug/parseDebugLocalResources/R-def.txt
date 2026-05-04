@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable captain_saurabh_kalia
+drawable captain_vikram_batra
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable major_sudhir_kumar_walia
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string captain_sourabh_kalia
+string captain_sourabh_kalia_service
+string captain_vikram_batra
+string captain_vikram_batra_service
+string major_sudhir_walia
+string major_sudhir_walia_service
+style Theme.LegendsGallery
+xml backup_rules
+xml data_extraction_rules
