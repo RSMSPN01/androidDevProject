@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Legends Gallery</string>
+
+    <string name="title">Fallen Heroes (Legends)</string>
+
+    <string name="captain_vikram_batra">Captain Vikram Batra</string>
+    <string name="captain_vikram_batra_service">Indian Army - Kargil War Hero</string>
+
+    <string name="captain_sourabh_kalia">Captain Saurabh Kalia</string>
+    <string name="captain_sourabh_kalia_service">Indian Army Officer - Kargil War</string>
+
+    <string name="major_sudhir_walia">Major Sudhir Kumar Walia</string>
+    <string name="major_sudhir_walia_service">Indian Army - Ashok Chakra Awardee</string>
+
+</resources>
